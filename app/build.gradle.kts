@@ -37,7 +37,7 @@ android {
 
 dependencies {
 
-    implementation("com.github.treeralph:GitDeployTest:1.0.0")
+    implementation("com.github.treeralph:GitDeployTest:1.0.4")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
